@@ -11,6 +11,6 @@ pyquery
 data文件下是查询后写入的数据
 
 统计效果图：
-![Alt text](https://github.com/Aaron11Gao/IPSpider/raw/master/data/IP统计图.png)
+![Alt text](https://github.com/Aaron11Gao/IPSpider/raw/master/pic/IP统计图.png)
 
 
